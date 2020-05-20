@@ -65,7 +65,5 @@ public class ShopApp {
         }
         System.out.println("Proceed to checkout...");
         System.out.println("Thank you for shopping with us!");
-
-
     }
 }
