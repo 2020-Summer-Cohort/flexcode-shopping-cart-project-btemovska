@@ -29,7 +29,5 @@ public class Item {
         return "Item: " + this.getName() + "   Price: " + getPrice() + "   Quantity: " + getQuantity() +
                 "\nTotal Price: " + Math.round((getPrice() * getQuantity()));
     }
-
     //tried Math.round but I wanted to two decimal places, and /1.00 did not work
-
 }
