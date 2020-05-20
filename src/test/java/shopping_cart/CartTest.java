@@ -31,6 +31,4 @@ public class CartTest {
         int check = underTest.getTotalItems();
         assertEquals(1, check);
     }
-
-
 }
